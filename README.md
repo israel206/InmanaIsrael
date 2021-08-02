@@ -25,7 +25,6 @@ O InMana é um gerenciador de estoques que te avisa sempre que algum de seus pro
 
 ## 🚀 Como executar
 
-- Clone o repositório
 - Instale o phoenix `mix archive.install hex phx_new 1.5.8`
 - Instale as dependencias do projeto `mix deps.get`
 - Instale a database e rode as migrations `mix ecto.setup`
